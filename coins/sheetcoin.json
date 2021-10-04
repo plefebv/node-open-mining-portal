@@ -1,0 +1,17 @@
+{
+    "name": "sheetcoin",    
+    "symbol": "SHTX",    
+    "algorithm": "kawpow",
+    
+    "wallet": "https://sheetproject.org/",
+
+    "explorer":"http://explorer.sheetproject.org",
+    
+    "explorerGetBlockJSON": "http://explorer.sheetproject.org/api/getblock?hash=",
+    "explorerGetBlock": "http://explorer.sheetproject.org/block/",
+    "explorerGetTX": "http://explorer.sheetproject.org/tx/",
+    
+    "blockTime": 50,
+    "blockChange": 1
+    
+}
